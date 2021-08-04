@@ -1,0 +1,6 @@
+Scenario: authentication
+Given login to home page 
+When enter user name and password 
+Then enter in home page
+And back to home
+
